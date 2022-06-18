@@ -1,0 +1,13 @@
+#for mac
+*/.DS_Store
+.DS_Store
+
+#for jupyter notebook
+*/.ipynb_checkpoints/
+.ipynb_checkpoints
+
+#for colab
+for_commit_from_colab.ipynb
+.DS_Store
+**/mlruns/
+mlruns/
