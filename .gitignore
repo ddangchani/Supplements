@@ -11,3 +11,5 @@ for_commit_from_colab.ipynb
 .DS_Store
 **/mlruns/
 mlruns/
+
+.DS_Store
