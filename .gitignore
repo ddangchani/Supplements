@@ -13,3 +13,6 @@ for_commit_from_colab.ipynb
 mlruns/
 
 .DS_Store
+
+#Dataset
+*.csv
